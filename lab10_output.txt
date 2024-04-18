@@ -1,0 +1,32 @@
+bier
+ (1)
+botter
+ (1)
+brot
+ (3)
+butter
+ (2)
+deutsch
+ (1)
+durst
+ (1)
+etc
+ (1)
+fleisch
+ (1)
+kartoffel
+ (1)
+kartoffeln
+ (2)
+knobkauch
+ (1)
+knoblauch
+ (1)
+kuchen
+ (1)
+wein
+ (1)
+wurst
+ (3)
+zwiebel
+ (1)

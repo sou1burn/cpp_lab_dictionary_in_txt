@@ -1,0 +1,4 @@
+﻿  lab10.cpp
+C:\Users\spike\source\repos\lab10\lab10.cpp(20,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\spike\source\repos\lab10\lab10.cpp(70,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab10dop.vcxproj -> C:\Users\spike\source\repos\lab10dop\x64\Debug\lab10dop.exe
